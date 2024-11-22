@@ -9,3 +9,6 @@ Then it waits until the song reaches the end based on that time
 Then it plays another one randomly
 
 :)
+
+If you like this god-forsaken piece of trash program that literally anyone could do better:
+https://ko-fi.com/princesselodie
